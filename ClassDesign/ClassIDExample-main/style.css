@@ -1,0 +1,55 @@
+@font-face {
+  font-family:TomatoesCake;
+  src: url("Tomatoes Cake.otf");
+}
+
+.roboto-<uniquifier> {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: rgb(233, 139, 85);
+
+}
+h1{
+  font-family:"Roboto";
+}
+.little{
+  width: 300px;
+}
+#big{
+  width: 800px;
+}
+.part1{
+  color: blanchedalmond;
+  font-family: TomatoesCake;
+}
+.part2{
+  color:azure;
+  font-family: TomatoesCake;
+}
+.part3{
+  color:aquamarine;
+  font-family: TomatoesCake;
+}
+h1{
+  color:rgb(238, 50, 50);
+  
+}
+a{
+  text-decoration: none;
+    font-family: TomatoesCake;
+}
+a:hover{
+  text-decoration: underline;
+}
